@@ -1,3 +1,3 @@
-DEPLOYMENT LINK --> https://movie-watchlist-frontend.vercel.app/
-Backend GitHub Code --> https://github.com/sanket622/movie-watchlist-backend
+DEPLOYMENT LINK -->https://movie-watchlist-tawny-two.vercel.app/
+Backend GitHub Code -->https://github.com/shikha-singh123/movie-watchlist-backend
 
