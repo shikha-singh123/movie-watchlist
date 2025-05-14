@@ -1,0 +1,1 @@
+export const baseurl = `https://movie-watchlist-backend-sigma.vercel.app`
